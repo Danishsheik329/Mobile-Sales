@@ -8,18 +8,14 @@ The Car Sales Analysis Dashboard is an interactive Power BI report that helps us
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:<br>
-•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
-•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .png for dashboard previews.
+•	 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	 Ms Excel – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	 SQL (Structured Query Language) – Used to retrieve, filter, and aggregate car sales data from the database before importing it into Power BI.
 
 ### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
-Source: Ski-resort-stats.com & NASA Earth Observations. 
-
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+The dataset used in this project was taken from Kaggle.
+It contains 23,916 rows and 16 columns, providing detailed information about car sales, including company, model, engine type, transmission, color, body style, sale price, and total revenue.
 
 
 ### 5.	Features / Highlights
