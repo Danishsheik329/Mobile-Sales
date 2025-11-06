@@ -19,27 +19,11 @@ It contains 23,916 rows and 16 columns, providing detailed information about car
 
 
 ### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
-
-Example:
 •	Business Problem
-The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries. 
-
-Key questions such as:
-Which regions offer the most family-friendly or expert-level skiing?
-Where is summer skiing available?
-What countries have the most well-equipped resorts?
-… are difficult to answer quickly with raw data.
+The company lacks a centralized system to monitor Year-to-Date (YTD) and Month-to-Date (MTD) sales performance. As a result, management cannot easily evaluate revenue trends, identify best-selling models, or compare performance with last year to plan effective marketing and production strategies.
 
 •	Goal of the Dashboard
-To deliver an interactive visual tool that:
-Enables users to explore ski resorts globally.
-Supports decisions such as vacation planning, regional marketing, or infrastructure investment.
-Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
+The goal of this dashboard is to monitor Year-to-Date (YTD) and Month-to-Date (MTD) performance of sales, revenue, and total cars sold across different dimensions such as company, model, transmission type, and body style. This helps users analyze trends, compare performance, and make informed business decisions.
 
 •	Walkthrough of Key Visuals
 -	Key KPIs (Top Left)
