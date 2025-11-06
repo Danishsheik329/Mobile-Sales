@@ -1,10 +1,10 @@
 # Car Sales Analysis
 ### 1.	Project Title / Headline
 Car Sales Analysis
-An interactive dashboard designed to analyze Year-To-Date (YTD) car sales across company, model, engine type, transmission, color, and body style—empowering business users with actionable insights into sales performance, revenue, and customer preferences.
+An interactive dashboard<br>designed to analyze Year-To-Date (YTD) car sales across company, model, engine type, transmission, color, and body style—empowering business users with actionable insights into sales performance, revenue, and customer preferences.
 
 ### 2.	Short Description / Purpose
-The Car Sales Analysis Dashboard<br> is an interactive Power BI report that helps users explore and compare car sales based on company, model, engine type, transmission, color, and body style. The data was collected and prepared using SQL before being visualized in Power BI. The dashboard tracks Year-to-Date (YTD) and Month-to-Date (MTD) sales, revenue, and total cars sold, allowing users to compare current performance with last year. This tool helps sales teams, analysts, and car companies understand sales trends, revenue growth, and customer preferences for better business decisions.
+The Car Sales Analysis Dashboard is an interactive Power BI report that helps users explore and compare car sales based on company, model, engine type, transmission, color, and body style. The data was collected and prepared using SQL before being visualized in Power BI. The dashboard tracks Year-to-Date (YTD) and Month-to-Date (MTD) sales, revenue, and total cars sold, allowing users to compare current performance with last year. This tool helps sales teams, analysts, and car companies understand sales trends, revenue growth, and customer preferences for better business decisions.
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:<br>
